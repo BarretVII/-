@@ -1,4 +1,4 @@
 # hello-world
-General repository
+Welcome to my humble repository.
 
-Learning Python, one function and method at a time.
+I love to learn  languages, and programming languages are basically languages too.  I'm not too fluent in anything, hoping to expand my horizons a little bit.  
